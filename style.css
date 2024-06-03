@@ -1,0 +1,59 @@
+.nav-sale{
+    color: rgb(68, 213, 209);
+    padding-right: 300px;
+}
+
+.nav-sale:hover{
+    color: rgb(68, 213, 209);
+}
+
+.navbar-nav{
+    padding-left: 30px;
+}
+
+.nav-item{
+    padding-left: 30px;
+}
+
+.nav-link{
+    font-size: large;
+    font-weight: 700;
+}
+
+.nav-link:hover{
+    text-decoration: underline;
+}
+
+.btn-outline-success{
+    color: gray;
+    border-color: gray;
+}
+
+.btn-outline-success:hover{
+    background-color: darkgray;
+    border-color: darkgray;
+}
+
+footer{
+    background-color: black;
+    color: white;
+}
+
+.first-line{
+    border-bottom: 1px solid #392d23;
+}
+
+.second-line a{
+    text-decoration: none;
+    color: white;
+}
+
+.second-line a:hover{
+    text-decoration: none;
+    font-weight: 700;
+    color: gray;
+}
+
+.image{
+    height: 473.07px
+}
